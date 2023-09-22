@@ -5,7 +5,7 @@ import math
 '''
 Functions for perfect, abundant, or deficient classification problem -- https://exercism.org/tracks/python/exercises/perfect-numbers
 Checking for a prime number -- https://www.programiz.com/python-programming/examples/prime-number
-
+Aliquot Sum -- https://en.wikipedia.org/wiki/Aliquot_sum
 '''
 
 def classify(number):
