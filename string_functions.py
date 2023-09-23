@@ -20,3 +20,11 @@ def calc_hamming_distance(strand_a, strand_b):
     return hamming_distance
         
 
+'''
+Functions for reverse string -- https://exercism.org/tracks/python/exercises/scrabble-score
+
+'''
+
+def my_reverse(input_string):
+    #return ''.join([i for i in reversed(string)])
+    return input_string[::-1]

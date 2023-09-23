@@ -46,7 +46,7 @@ Functions for dart game -- https://exercism.org/tracks/python/exercises/darts
 
 '''
 
-def score(x, y):
+def calculate_dart_score(x, y):
     # coordinates -- x and y values for cartesian position of dart on the dart board
     # score -- An int that's the amount of points scored
     score = 0
